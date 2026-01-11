@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**GabDLM-Cyber/GabDLM-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Gabriel**, a cybersecurity engineering student based in France.
 
-Here are some ideas to get you started:
+I break things to learn how to fix them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While I regularly practice offensive security on **TryHackMe**, my endgame is **Blue Team** operations. I believe you can't effectively defend a fortress if you don't know how the invaders think.
+
+My time with the **SNCF security team** gave me a glimpse into real-world defense at scale. It taught me that security isn't just about tools, but about processes, reactivity, and protecting critical data.
+
+My main focus right now is building custom **Home Labs**. Instead of just consuming content, I design my own vulnerable networks to test detection rules and incident response workflows.
+
+**My Toolbox:**
+My stack relies heavily on open-source solutions. I deploy **Wazuh** as my SIEM and **pfSense** for firewalling, combined with **Wireshark** for deep analysis. I am perfectly comfortable navigating between **Kali** and **Ubuntu** environments, using **Python** to script my way out of repetitive tasks.
+
+**Fun Facts:**
+* 🧠 I spend more time reading logs than social media.
+* 🏗️ Big fan of "Security by Design".
+* 🎯 Working towards a specialized role in SOC Operations or GRC Consulting.
