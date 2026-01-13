@@ -15,7 +15,7 @@ My time with the **SNCF security team** gave me a glimpse into real-world defens
 My main focus right now is building custom **Home Labs**. Instead of just consuming content, I design my own vulnerable networks to test detection rules and incident response workflows.
 
 **My Toolbox:**
-My stack relies heavily on open-source solutions. I deploy **Wazuh** as my SIEM and **pfSense** for firewalling, combined with **Wireshark** for deep analysis. I am perfectly comfortable navigating between **Kali** and **Ubuntu** environments, using **Python** to script my way out of repetitive tasks.
+My stack relies heavily on open-source solutions. I deploy **Wazuh** as my SIEM and **pfSense** for firewalling, combined with **Wireshark** for deep analysis. I am perfectly comfortable navigating between **Kali** and **Ubuntu** environments.
 
 **Fun Facts:**
 * 🧠 I spend more time reading logs than social media.
